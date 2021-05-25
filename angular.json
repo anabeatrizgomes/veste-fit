@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "veste-fit"
+    }
+  },
+  "defaultProject": "veste-fit",
+  "cli": {
+    "analytics": "6cc2a27c-dcb7-455a-895f-5de342c11560"
+  }
 }
